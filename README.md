@@ -1,4 +1,4 @@
-# CS114.L22.KHCL - MACHINE LEARNING
+<h1 align="center"><b>CS114.L22.KHCL - MACHINE LEARNING</b></h1>
 
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
